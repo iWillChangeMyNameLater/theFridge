@@ -1,0 +1,10 @@
+ul {
+    list-style-type: none;
+    background-color: #EE6352;
+    border: #3FA7D6;
+    border-style: solid;
+    display: block;
+}
+li {
+    display: inline;
+}
