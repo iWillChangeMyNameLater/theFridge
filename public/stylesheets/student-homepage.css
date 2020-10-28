@@ -1,10 +1,18 @@
 ul {
     list-style-type: none;
-    background-color: #EE6352;
-    border: #3FA7D6;
-    border-style: solid;
     display: block;
+    padding: 0;
+    margin: 0;
 }
 li {
     display: inline;
+    border-right: #3FA7D6;
+    background-color: #EE6352;
+    border-style: solid;
+    
+}
+a {
+    color: white;
+
+    
 }
