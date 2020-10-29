@@ -49,6 +49,7 @@ body{
     padding: 30px;
 }
 
-div.image{
-    content:"retro-1291738_1920.jpg"
+image{
+    height: 100%;
+    width: 100%;
 }
