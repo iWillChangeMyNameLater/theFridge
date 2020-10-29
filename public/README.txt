@@ -13,3 +13,6 @@ Cecilia Yarger
 
 Taylor Kost
     crerated split screens for index.html
+
+Tomi Akindele
+    updated About Us HTML and CSS
