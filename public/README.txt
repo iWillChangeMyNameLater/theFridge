@@ -10,3 +10,6 @@ Cecilia Yarger
     created all HTML student files
     created all CSS files
     Linked all CSS and HTML FILES
+
+Taylor Kost
+    crerated split screens for index.html
