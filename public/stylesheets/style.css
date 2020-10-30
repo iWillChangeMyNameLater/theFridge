@@ -4,7 +4,26 @@ body {
 }
 
 a:link {
-  color: #00B7FF;
+  color: white;
   width: 50%;
   height: 40%;
+  font-size: large;
+  margin-left: 365px;
+  background-color: #EE6352;
+  padding: 14px 25px;
+  border-radius: 8px;
+}
+
+a:hover {
+  background-color: lightcoral;
+}
+
+.title {
+  text-align: center;
+  color: #3FA7D6;
+}
+
+h3 {
+  text-align: center;
+  color: #3FA7D6;
 }
