@@ -6,6 +6,8 @@ header ul {
     height:40px;
     margin: 0;
     padding: 0;
+    position:sticky;
+    position: -webkit-sticky; /*this is aparently needed for safari*/
 }
 header li {
     display: inline-block;
