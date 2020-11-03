@@ -7,26 +7,26 @@ body {
 }
 
 a:link {
-  color: white;
+  color: #2E4057;
   width: 50%;
   height: 40%;
   font-size: large;
   margin-left: 365px;
-  background-color: #EE6352;
+  background-color:#FFD23F;
   padding: 14px 25px;
   border-radius: 8px;
 }
 
 a:hover {
-  background-color: lightcoral;
+  background-color: lightgoldenrodyellow;
 }
 
 .title {
   text-align: center;
-  color: #3FA7D6;
+  color:#2E4057;
 }
 
 h3 {
   text-align: center;
-  color: #3FA7D6;
+  color: #2E4057;
 }
