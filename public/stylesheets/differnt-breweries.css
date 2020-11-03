@@ -38,3 +38,38 @@ border-style: solid;
     border-style: solid;
 
 }
+.flex-info{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    text-align: center;
+
+}
+.micro{
+    background-color: #FFD23F;
+    color: #2E4057;
+}
+.nano{
+    background-color: #2E4057;
+    color: #FFD23F
+}
+.regional{
+    background-color: #FFD23F;
+    color: #2E4057;
+}
+.brewpub{
+    background-color: #2E4057;
+    color: #FFD23F
+}
+.planning{
+    background-color: #FFD23F;
+    color: #2E4057;
+}
+.contract{
+    background-color: #2E4057;
+    color: #FFD23F
+}
+.closed{
+    background-color: #FFD23F;
+    color: #2E4057;
+}
