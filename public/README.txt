@@ -1,8 +1,7 @@
 colorScheme:
-opal #EE6352
-green #59CD90
-blue #3FA7D6
-white 
+charcoal: #2E4057
+Gold #84714F
+sunglow/yellow #FFD23F
 Cecilia Yarger
     created the express app
     created GitHub repo
