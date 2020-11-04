@@ -35,5 +35,10 @@ color: #2E4057;
     color: #2E4057;
     width: 40px;
     border-style: solid;
+}
 
+body {
+    background-image: url('../images/beermugs.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
 }

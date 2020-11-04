@@ -12,12 +12,14 @@ ul{
 }
 
 .links {
-  display: inline;
+  display: inline-block;
+  text-align: center;
   color: #2E4057;
-  margin-left: 25%;
-  font-size: 200%ç;
+  width: 20%;
+  margin-left: 20%;
+  font-size: 200%;
   background-color:#FFD23F;
-  border-radius: 8px;
+  border-radius: 4px;
 }
 
 a:hover {
