@@ -27,18 +27,27 @@ ul {
 display: inline;
 width: 20%;
 margin-right: 50%;
-color: #2E4057;
+color: white
 
 }
 #caption{
     display: inline;
-    color: #2E4057;
+    color: white
     width: 40px;
     border-style: solid;
+}
+
+p {
+    color:#FFD23F;
+    font-weight: bold;
 }
 
 body {
     background-image: url('../images/beermugs.jpg');
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+.links {
+
 }
