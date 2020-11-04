@@ -1,5 +1,4 @@
 div ul {
-    
     list-style-type: none;
     background-color: #2E4057;
     display: flex;
@@ -7,30 +6,29 @@ div ul {
     padding: 0;
     height: 40px;
     justify-content: space-around;
-    
 }
 
- a {
+a {
     display: inline-block;
     text-align: "center";
     margin-top: 10px;  
     color: #FFD23F; 
-
 }
-.bar{
+
+.bar {
     position: sticky;
     position: -webkit-sticky;
     top: 0;
 }
 
 #title {
-display: inline;
-width: 20%;
-margin-right: 50%;
-color: #FFD23F;
-
+    display: inline;
+    width: 20%;
+    margin-right: 50%;
+    color: #FFD23F;
 }
-#caption{
+
+#caption {
     display: inline;
     color: #FFD23F; 
     width: 40px;
@@ -60,5 +58,4 @@ body {
   margin-top: 5%;
   background-color: #2E4057;
   border-radius: 4px;
-
 }

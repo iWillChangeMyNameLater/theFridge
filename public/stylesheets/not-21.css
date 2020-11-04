@@ -1,0 +1,20 @@
+body {
+    background-image: url('../images/dispense.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 100%;
+    
+}
+
+
+.container {
+    text-align: center;
+    color: #FFD23F; 
+    margin-top: 15%;
+    padding: 1px;
+    background-color: #2E4057;
+}
+
+p {
+    font-size: 180%;
+}

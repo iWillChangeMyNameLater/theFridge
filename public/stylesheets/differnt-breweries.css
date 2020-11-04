@@ -1,5 +1,4 @@
 ul {
-    
     list-style-type: none;
     background-color: #2E4057;
     display: flex;
@@ -14,7 +13,8 @@ ul {
     margin-top: 10px;  
     color: #FFD23F;
 }
-.bar{
+
+.bar {
     position: sticky;
     position: -webkit-sticky;
     top: 0;
@@ -25,7 +25,8 @@ width: 20%;
 margin-right: 50%;
 color: #2E4057;
 }
-#caption{
+
+#caption {
     display: inline;
     color: #2E4057;
     width: 40px;
@@ -37,7 +38,8 @@ body{
     background-size: cover;
 
 }
-.flex-info{
+
+.flex-info {
     display: flex;
     flex-direction: column;
     margin: auto;
@@ -47,31 +49,38 @@ body{
     justify-content: space-evenly;
     min-height: 0;
 }
-.micro{
+
+.micro {
     background-color: #FFD23F;
     color: #2E4057;
 }
-.nano{
+
+.nano {
     background-color: #2E4057;
     color: #FFD23F;
 }
-.regional{
+
+.regional {
     background-color: #FFD23F;
     color: #2E4057;
 }
-.brewpub{
+
+.brewpub {
     background-color: #2E4057;
     color: #FFD23F;
 }
-.planning{
+
+.planning {
     background-color: #FFD23F;
     color: #2E4057;
 }
-.contract{
+
+.contract {
     background-color: #2E4057;
     color: #FFD23F;
 }
-.closed{
+
+.closed {
     background-color: #FFD23F;
     color: #2E4057;
 }

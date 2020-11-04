@@ -16,7 +16,9 @@ Cecilia Yarger
     created the differnt-breweries page
 
 Taylor Kost
-    crerated split screens for index.html
+    Added HTML and CSS to index.html page
+    Added HTML and CSS to abuse-resources.html page
+    Helped format HTML and CSS pages
 
 Tomi Akindele
     updated About Us HTML and CSS
@@ -27,6 +29,6 @@ Directions:
     you will then be able to view the site
 
  resources
-    all images are free commons media responsibly sourced from https://pixabay.com and https://unsplash.com
+    all images are free commons media responsibly sourced from https://pixabay.com, https://search.creativecommons.org, and https://unsplash.com
     we used https://www.w3schools.com to reserch various elements while making this site
     we used https://css-tricks.com to reserch various elements while making this site
