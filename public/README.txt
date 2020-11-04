@@ -21,7 +21,8 @@ Taylor Kost
     Helped format HTML and CSS pages
 
 Tomi Akindele
-    updated About Us HTML and CSS
+    Added HTML and CSS to about-us.html page
+    Added HTML and CSS to not-21.html page
 
 Directions:
     After downloading source code run the command npm start in the command line
