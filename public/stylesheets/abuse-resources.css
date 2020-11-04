@@ -1,5 +1,4 @@
 ul {
-    
     list-style-type: none;
     background-color: #2E4057;
     display: flex;
@@ -7,32 +6,31 @@ ul {
     padding: 0;
     height: 40px;
     justify-content: space-around;
-    
 }
 
- a {
+a {
     display: inline-block;
     text-align: "center";
     margin-top: 10px;  
     color: #FFD23F; 
-
 }
-.bar{
+
+.bar {
     position: sticky;
     position: -webkit-sticky;
     top: 0;
 }
 
 #title {
-display: inline;
-width: 20%;
-margin-right: 50%;
-color: white
-
-}
-#caption{
     display: inline;
+    width: 20%;
+    margin-right: 50%;
     color: white
+}
+
+#caption {
+    display: inline;
+    color: white;
     width: 40px;
     border-style: solid;
 }
@@ -46,8 +44,4 @@ body {
     background-image: url('../images/beermugs.jpg');
     background-repeat: no-repeat;
     background-size: cover;
-}
-
-.links {
-
 }

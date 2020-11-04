@@ -1,65 +1,61 @@
 ul {
-    
     list-style-type: none;
     background-color: #2E4057;
     display: flex;
     margin: 0;
     padding: 0;
     height: 40px;
-    justify-content: space-around;
-    
+    justify-content: space-around; 
 }
 
- a {
+a {
     display: inline-block;
     text-align: "center";
     margin-top: 10px;  
     color: #FFD23F; 
-
 }
-.bar{
+.bar {
     position: sticky;
     position: -webkit-sticky;
     top: 0;
 }
 
 #title {
-display: inline;
-width: 20%;
-margin-right: 50%;
-color: #2E4057;
-border-style: solid;
-
+    display: inline;
+    width: 20%;
+    margin-right: 50%;
+    color: #2E4057;
+    border-style: solid;
 }
-#caption{
+
+#caption {
     display: inline;
     color: #2E4057;
     width: 40px;
     border-style: solid;
-
 }
 
-h2{
+h2 {
     color:  #3FA7D6;
     margin-left: 50px;
     font-size: 40px;
     margin-top: 10px;
 }
 
-h3{
+h3 {
     margin-left: 50px;
 }
 
-#Team{
+#Team {
     margin-left: 70px;
     width: 100%;
 }
 
-#Purpose{
+#Purpose {
     margin-left: 70px;
 }
 
-img{
+img {
     float: left;
     width: auto;
     height: auto;

@@ -13,7 +13,8 @@ Cecilia Yarger
     Linked all CSS and HTML FILES
 
 Taylor Kost
-    crerated split screens for index.html
+    Added HTML and CSS to index.html page
+    Added HTML and CSS to abuse-resources.html page
 
 Tomi Akindele
     updated About Us HTML and CSS
