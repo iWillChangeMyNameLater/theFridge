@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 ul {
+=======
+div ul {
+    
+>>>>>>> 1ec02d808b65c465cf2537abac7c687a936aac4f
     list-style-type: none;
     background-color: #2E4057;
     display: flex;
