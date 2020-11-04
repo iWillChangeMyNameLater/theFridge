@@ -2,6 +2,7 @@ colorScheme:
 charcoal: #2E4057
 Gold #84714F
 sunglow/yellow #FFD23F
+contributions:
 Cecilia Yarger
     created the express app
     created GitHub repo
@@ -20,7 +21,12 @@ Taylor Kost
 Tomi Akindele
     updated About Us HTML and CSS
 
-    resources
+Directions:
+    After downloading source code run the command npm start in the command line
+    Then, open browser and go to the link "http://127.0.0.1:3000/"
+    you will then be able to view the site
+
+ resources
     all images are free commons media responsibly sourced from https://pixabay.com and https://unsplash.com
     we used https://www.w3schools.com to reserch various elements while making this site
     we used https://css-tricks.com to reserch various elements while making this site
