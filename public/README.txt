@@ -17,3 +17,5 @@ Taylor Kost
 
 Tomi Akindele
     updated About Us HTML and CSS
+    photo on not-21.html by "TWB- The Wine Bar, Wine Taps" by NwongPR is licensed under CC BY-ND 2.0
+    photo on about-us.html by "Wine" by niseag03 is licensed under CC BY-ND 2.0

@@ -29,8 +29,8 @@ width: 20%;
 margin-right: 50%;
 color: #2E4057;
 border-style: solid;
-
 }
+
 #caption{
     display: inline;
     color: #2E4057;
@@ -39,8 +39,12 @@ border-style: solid;
 
 }
 
+body{
+    background-color: #FFD23F;
+}
+
 h2{
-    color:  #3FA7D6;
+    color:  #2E4057;
     margin-left: 50px;
     font-size: 40px;
     margin-top: 10px;
@@ -52,7 +56,7 @@ h3{
 
 #Team{
     margin-left: 70px;
-    width: 100%;
+    /*width: 100%;*/
 }
 
 #Purpose{
