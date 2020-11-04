@@ -64,7 +64,7 @@ h3 {
 
 h4{
     margin-inline: 50px;
-    color: white;
+    color: #FFD23F;
 }
 
 #meetTeam{
@@ -73,19 +73,19 @@ h4{
 
 #Team {
     margin-left: 70px;
+    font-size: 200%;
 }
-
-img {
+.purpose{
     float: right;
-    width: auto;
-    height: auto;
+    margin-top: -30%;
+    margin-right: 5%;
 }
-
 #purposeContent {
     margin-top: 10px;
+    font-size: 150%;
 }
 
 section p {
-    color: white;
+    color: #FFD23F;
     margin-left: 80px;
 }
