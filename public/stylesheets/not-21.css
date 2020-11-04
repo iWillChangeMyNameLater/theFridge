@@ -12,11 +12,9 @@ body{
     color: #FFD23F; 
     margin-top: 15%;
     background-color: #2E4057;
-    background-size: auto;
-    display: flex;
 }
 
 p{
-    /*font: 200% "Lucida Grande", Helvetica, Arial, sans-serif;*/
-    font-size: 200%;
+    text-align: center;
+    font-size: 180%;
 }
