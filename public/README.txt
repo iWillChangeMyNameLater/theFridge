@@ -2,6 +2,7 @@ colorScheme:
 charcoal: #2E4057
 Gold #84714F
 sunglow/yellow #FFD23F
+contributions:
 Cecilia Yarger
     created the express app
     created GitHub repo
@@ -11,11 +12,23 @@ Cecilia Yarger
     created all HTML files
     created all CSS files
     Linked all CSS and HTML FILES
+    created the findMyBrew-hompage
+    created the differnt-breweries page
 
 Taylor Kost
-    crerated split screens for index.html
+    Added HTML and CSS to index.html page
+    Added HTML and CSS to abuse-resources.html page
+    Helped format HTML and CSS pages
 
 Tomi Akindele
     updated About Us HTML and CSS
-    photo on not-21.html by "TWB- The Wine Bar, Wine Taps" by NwongPR is licensed under CC BY-ND 2.0
-    photo on about-us.html by "Wine" by niseag03 is licensed under CC BY-ND 2.0
+
+Directions:
+    After downloading source code run the command npm start in the command line
+    Then, open browser and go to the link "http://127.0.0.1:3000/"
+    you will then be able to view the site
+
+ resources
+    all images are free commons media responsibly sourced from https://pixabay.com, https://search.creativecommons.org, and https://unsplash.com
+    we used https://www.w3schools.com to reserch various elements while making this site
+    we used https://css-tricks.com to reserch various elements while making this site

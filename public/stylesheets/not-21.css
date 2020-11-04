@@ -13,7 +13,7 @@ body{
     margin-top: 15%;
     background-color: #2E4057;
     background-size: auto;
-    /*display: flex;*/
+    display: flex;
 }
 
 p{
