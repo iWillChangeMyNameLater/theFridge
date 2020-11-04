@@ -8,11 +8,7 @@ body {
 
 ul {
   list-style: none;
-<<<<<<< HEAD
-  height: 50%;
-=======
   height: 50%; 
->>>>>>> 1ec02d808b65c465cf2537abac7c687a936aac4f
 }
 .links {
   display: inline-block;

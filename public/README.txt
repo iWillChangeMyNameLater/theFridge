@@ -18,6 +18,7 @@ Cecilia Yarger
 Taylor Kost
     Added HTML and CSS to index.html page
     Added HTML and CSS to abuse-resources.html page
+    Helped format HTML and CSS pages
 
 Tomi Akindele
     updated About Us HTML and CSS

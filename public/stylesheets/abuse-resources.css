@@ -27,17 +27,6 @@ a {
 }
 
 #title {
-<<<<<<< HEAD
-    display: inline;
-    width: 20%;
-    margin-right: 50%;
-    color: white
-}
-
-#caption {
-    display: inline;
-    color: white;
-=======
 display: inline;
 width: 20%;
 margin-right: 50%;
@@ -47,7 +36,6 @@ color: #FFD23F;
 #caption{
     display: inline;
     color: #FFD23F; 
->>>>>>> 1ec02d808b65c465cf2537abac7c687a936aac4f
     width: 40px;
 }
 
