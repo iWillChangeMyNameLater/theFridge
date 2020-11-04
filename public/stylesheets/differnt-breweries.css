@@ -6,44 +6,46 @@ ul {
     margin: 0;
     padding: 0;
     height: 40px;
-    justify-content: space-around;
-    
+    justify-content: space-around;  
 }
-
  a {
     display: inline-block;
     text-align: "center";
     margin-top: 10px;  
-    color: #FFD23F; 
-
+    color: #FFD23F;
 }
 .bar{
     position: sticky;
     position: -webkit-sticky;
     top: 0;
 }
-
 #title {
 display: inline;
 width: 20%;
 margin-right: 50%;
 color: #2E4057;
-border-style: solid;
-
 }
 #caption{
     display: inline;
     color: #2E4057;
     width: 40px;
-    border-style: solid;
+}
+body{
+    background-image: url('../images/foam.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 
 }
 .flex-info{
     display: flex;
     flex-direction: column;
-    justify-content: space-around;
+    margin: auto;
+    padding: 0;
     text-align: center;
-
+    width:75%;
+    justify-content: space-evenly;
+    min-height: 0;
 }
 .micro{
     background-color: #FFD23F;
@@ -51,7 +53,7 @@ border-style: solid;
 }
 .nano{
     background-color: #2E4057;
-    color: #FFD23F
+    color: #FFD23F;
 }
 .regional{
     background-color: #FFD23F;
@@ -59,7 +61,7 @@ border-style: solid;
 }
 .brewpub{
     background-color: #2E4057;
-    color: #FFD23F
+    color: #FFD23F;
 }
 .planning{
     background-color: #FFD23F;
@@ -67,7 +69,7 @@ border-style: solid;
 }
 .contract{
     background-color: #2E4057;
-    color: #FFD23F
+    color: #FFD23F;
 }
 .closed{
     background-color: #FFD23F;
