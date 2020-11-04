@@ -74,7 +74,7 @@ p{
 }
 
 img{
-    float: left;
-    width: auto;
-    height: auto;
+    /*float: left;*/
+    width: 50%;
+    height: 50%;
 }
