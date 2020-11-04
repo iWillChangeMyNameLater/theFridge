@@ -7,10 +7,8 @@ body {
 }
 ul{
   list-style: none;
-  height: 50%;
-  
+  height: 50%; 
 }
-
 .links {
   display: inline-block;
   text-align: center;
