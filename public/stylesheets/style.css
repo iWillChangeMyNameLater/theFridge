@@ -5,15 +5,18 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
 }
+ul{
+  list-style: none;
+  height: 50%;
+  
+}
 
-a:link {
+.links {
+  display: inline;
   color: #2E4057;
-  width: 50%;
-  height: 40%;
-  font-size: large;
-  margin-left: 365px;
+  margin-left: 25%;
+  font-size: 200%ç;
   background-color:#FFD23F;
-  padding: 14px 25px;
   border-radius: 8px;
 }
 
