@@ -27,54 +27,66 @@ div ul {
 display: inline;
 width: 20%;
 margin-right: 50%;
-color: #2E4057;
-border-style: solid;
+color: #FFD23F; 
+
 }
 
-#caption{
+#caption {
     display: inline;
     width: 20%;
     margin-right: 50%;
-    color: #2E4057;
+    color: #FFD23F;
     width: 40px;
-    border-style: solid;
 
 }
 
-body{
-    background-color: #FFD23F;
+body {
+    background-image: url('../images/single-glass.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
 }
 
-h2{
-    color:  #2E4057;
+h2 {
+    color: #FFD23F;
     margin-left: 50px;
     font-size: 40px;
     margin-top: 10px;
 }
 
-h3{
+h3 {
+    color: #FFD23F;
     margin-left: 50px;
 }
 
 h4{
     margin-inline: 50px;
+    color: white;
 }
 
-#Team{
+#meetTeam{
+    text-align: left;
+}
+
+#Team {
     margin-left: 70px;
     /*width: 100%;*/
 }
 
-#Purpose{
-    margin-left: 70px;
+#purposeHeader {
+    text-align: right;
+    margin-right: 70px;
+    float: top;
 }
 
-p{
-    margin-left: 100px;
+#purposeContent {
+    text-align: right;
+    margin-right: 70px;
 }
 
-img{
-    /*float: left;*/
-    width: 50%;
-    height: 50%;
+p {
+    color: white;
+    margin-left: 90px;
+    font-size: 100%;
 }
