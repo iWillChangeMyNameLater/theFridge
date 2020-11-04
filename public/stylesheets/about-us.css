@@ -34,7 +34,6 @@ color: #FFD23F;
 #caption {
     display: inline;
     width: 20%;
-    margin-right: 50%;
     color: #FFD23F;
     width: 40px;
 
@@ -85,7 +84,7 @@ h4{
     margin-right: 70px;
 }
 
-p {
+section p {
     color: white;
     margin-left: 90px;
     font-size: 100%;

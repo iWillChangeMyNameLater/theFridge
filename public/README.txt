@@ -12,8 +12,8 @@ Cecilia Yarger
     created all HTML files
     created all CSS files
     Linked all CSS and HTML FILES
-    created the findMyBrew-hompage
-    created the differnt-breweries page
+    findMyBrew-hompage HTML and CSS
+    differnt-breweries page HTML and CSS
 
 Taylor Kost
     Added HTML and CSS to index.html page
@@ -21,7 +21,9 @@ Taylor Kost
     Helped format HTML and CSS pages
 
 Tomi Akindele
-    updated About Us HTML and CSS
+    About Us HTML and CSS
+    not-21 HTML and CSS
+
 
 Directions:
     After downloading source code run the command npm start in the command line
