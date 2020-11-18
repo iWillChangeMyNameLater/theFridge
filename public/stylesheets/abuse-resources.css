@@ -59,3 +59,9 @@ body {
   background-color: #2E4057;
   border-radius: 4px;
 }
+#div1{
+    float: right;
+    width: 30%;
+    background-color: #FFD23F;
+    display: none;
+}

@@ -5,6 +5,18 @@ body {
   background-size: cover;
   background-attachment: fixed;
 }
+#space{
+  display: none;
+  width: 75%;
+  height: 500px;
+  margin: auto;
+  margin-top: -10%;
+  background-color: #2E4057;
+  color: #FFD23F;
+}
+input{
+  margin: auto;
+}
 
 ul {
   list-style: none;
