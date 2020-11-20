@@ -84,3 +84,10 @@ body{
     background-color: #FFD23F;
     color: #2E4057;
 }
+.quiz{
+    text-align: center;
+    margin: auto;
+    color: #2E4057;
+    margin-top: 1%;
+
+}

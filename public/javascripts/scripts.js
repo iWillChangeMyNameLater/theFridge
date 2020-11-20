@@ -21,24 +21,32 @@ function getAge() {
 document.getElementById("check-age").addEventListener("click", checkAge);
 function checkAge() {
     var today = new Date();
+    console.log(today);
     var enteredDate = new Date(dateSelector.value);
     var age = today.getFullYear() - enteredDate.getFullYear();
-    var checkBirthMonth = true;
+    console.log(age);
+
+    var checkBirthMonth = false;
     if (age >= 21) {
         if (today.getMonth() - enteredDate.getMonth() < 0) {
             age--;
-            checkBirthMonth = false;
+            checkBirthMonth = true;
+            console.log("month")
+            console.log(today.getMonth() - enteredDate.getMonth());
+            console.log(age);
         }
         if (checkBirthMonth == true && today.getDate() - (enteredDate.getDate() + 1) < 0) {
+            console.log(checkBirthMonth);
             age--;
+            console.log(age);
         }
 
     }
-    if (age >= 21) {
+    /*if (age >= 21) {
         window.location.replace("/findMyBrew-homepage");
     }
     else {
         window.location.replace("/not-21");
-    }
+    }*/
 
 }

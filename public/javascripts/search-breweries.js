@@ -18,6 +18,7 @@ function PrintResult (result) {
     while(oldResults.hasChildNodes()){
         oldResults.removeChild(oldResults.firstChild);
     }
+    console.log(result);
     result.forEach((brewery)=>{
         var breweryStreet= brewery.street;
         var breweryCity = brewery.city;

@@ -6,10 +6,12 @@ router.get('/', function(req,res,next){
   if(req.query.searchFilter.localeCompare("zip-code")==0){
     search=search+"by_postal="+req.query.input;
     console.log(search);
+    console.log(req.query.input);
   }
   if(req.query.searchFilter.localeCompare("city-name")==0){
-    search=search+"by_city"+req.query.input;
+    search=search+"by_city="+req.query.input;
     console.log(search);
+    console.log(req.query.input);
   } 
   if(!req.query.brewType.localeCompare("any")==0){
     search=search+"&by_type="+req.query.brewType;
