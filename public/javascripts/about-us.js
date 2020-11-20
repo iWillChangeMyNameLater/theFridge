@@ -9,7 +9,9 @@ function hideTaylorInfo(){
 }
 function displayTaylorInfo(){
     document.getElementById("more-info").style.display = "block";
-    document.getElementById("more-info").innerHTML=" hello";
+    document.getElementById("more-info").innerHTML="I have a passion" + 
+    " for UX/UI Design and Web Design and hope to work for a big time" +
+    " company in New York City some day! I am a plant enthusiast, foodie and explorer!";
     document.getElementById("purposeHeader").style.display = "none";
     document.getElementById("purposeContent").style.display = "none";
 }
