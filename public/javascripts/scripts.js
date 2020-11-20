@@ -42,11 +42,11 @@ function checkAge() {
         }
 
     }
-    /*if (age >= 21) {
+    if (age >= 21) {
         window.location.replace("/findMyBrew-homepage");
     }
     else {
         window.location.replace("/not-21");
-    }*/
+    }
 
 }
