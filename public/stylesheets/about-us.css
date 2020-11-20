@@ -71,11 +71,12 @@ h4{
     text-align: left;
 }
 
-#Team {
+.Team {
     margin-left: 70px;
     font-size: 200%;
+    width: 20%;
 }
-.purpose{
+#purpose{
     float: right;
     color: #FFD23F;
     width: 40%;
@@ -93,4 +94,15 @@ h4{
 section p {
     color: #FFD23F;
     margin-left: 5%;
+}
+#more-info{
+    height: 30%;
+    width: 40%;
+    float: right;
+    margin-top: -30%;
+    background-color: #2E4057;
+    text-align: center;
+    color: #FFD23F;
+    font-size: 150%;
+    display: none;
 }
