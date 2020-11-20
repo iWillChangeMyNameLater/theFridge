@@ -31,3 +31,14 @@ function hideLink3Info(){
 function displayLink3Info(){
     document.getElementById("div3").style.display = "block";
 }
+
+var link4= document.getElementById("link4");
+link4.addEventListener("mouseover", displayLink4Info);
+link4.addEventListener("mouseout", hideLink4Info);
+
+function hideLink4Info(){
+    document.getElementById("div4").style.display = "none";
+}
+function displayLink4Info(){
+    document.getElementById("div4").style.display = "block";
+}
