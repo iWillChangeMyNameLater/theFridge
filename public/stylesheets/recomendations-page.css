@@ -1,0 +1,36 @@
+/* Navigation bar*/
+ul {
+    list-style-type: none;
+    background-color: #2E4057;
+    display: flex; /*the navigatin bar is responsive*/
+    margin: 0;
+    padding: 0;
+    height: 40px;
+    justify-content: space-around;
+}
+
+.bar a {
+    display: inline-block;
+    text-align: "center";
+    margin-top: 10px;  
+    color: #FFD23F; 
+}
+
+.bar {
+    position: sticky;
+    position: -webkit-sticky; /*needed for safri*/
+    top: 0;
+}
+
+#title {
+    display: inline;
+    width: 20%;
+    margin-right: 50%;
+    color: #2E4057;
+}
+
+#caption {
+    display: inline;
+    color: #2E4057;
+    width: 40px;
+}
