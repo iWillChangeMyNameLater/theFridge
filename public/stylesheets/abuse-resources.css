@@ -66,6 +66,7 @@ body {
     width: 30%;
     background-color: #FFD23F;
     display: none;
+    margin-top: 2%;
 }
 
 #div2{
@@ -73,6 +74,7 @@ body {
     width: 30%;
     background-color: #FFD23F;
     display: none;
+    margin-top: 10%;
 }
 
 #div3{
@@ -80,6 +82,7 @@ body {
     width: 30%;
     background-color: #FFD23F;
     display: none;
+    margin-top: 17%;
 }
 
 #div4{
@@ -87,4 +90,5 @@ body {
     width: 30%;
     background-color: #FFD23F;
     display: none;
+    margin-top: 25%;
 }
