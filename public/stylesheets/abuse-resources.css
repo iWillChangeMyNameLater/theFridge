@@ -58,9 +58,32 @@ body {
   margin-top: 5%;
   background-color: #2E4057;
   border-radius: 4px;
+  padding-bottom: 10px;
 }
+
 #div1{
     float: right;
+    width: 30%;
+    background-color: #FFD23F;
+    display: none;
+}
+
+#div2{
+    float: left;
+    width: 30%;
+    background-color: #FFD23F;
+    display: none;
+}
+
+#div3{
+    float: right;
+    width: 30%;
+    background-color: #FFD23F;
+    display: none;
+}
+
+#div4{
+    float: left;
     width: 30%;
     background-color: #FFD23F;
     display: none;
