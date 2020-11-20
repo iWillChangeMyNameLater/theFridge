@@ -77,15 +77,20 @@ h4{
 }
 .purpose{
     float: right;
+    color: #FFD23F;
+    width: 40%;
     margin-top: -30%;
-    margin-right: 5%;
 }
 #purposeContent {
-    margin-top: 10px;
+    font-size: 150%;
+   
+}
+#purposeHeader{
+    text-align: center;
     font-size: 150%;
 }
 
 section p {
     color: #FFD23F;
-    margin-left: 80px;
+    margin-left: 5%;
 }
