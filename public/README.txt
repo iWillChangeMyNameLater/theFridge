@@ -4,25 +4,19 @@ Gold #84714F
 sunglow/yellow #FFD23F
 contributions:
 Cecilia Yarger
-    created the express app
-    created GitHub repo
-    created README file
-    created navbar for each page
-    linked each button on the navbar 
-    created all HTML files
-    created all CSS files
-    Linked all CSS and HTML FILES
-    findMyBrew-hompage HTML and CSS
-    differnt-breweries page HTML and CSS
+    added javascript functionality for:
+    the opening page (index.html)
+    differnt breweries page
+    search breweries page
+
 
 Taylor Kost
-    Added HTML and CSS to index.html page
-    Added HTML and CSS to abuse-resources.html page
-    Helped format HTML and CSS pages
+    added javascript functionality for:
+    abuse resources page
 
 Tomi Akindele
-    About Us HTML and CSS
-    not-21 HTML and CSS
+   added javascript functionality for:
+    about us page
 
 
 Directions:
@@ -34,5 +28,8 @@ Directions:
     all images are free commons media responsibly sourced from https://pixabay.com, https://search.creativecommons.org, and https://unsplash.com
     we used https://www.w3schools.com to reserch various elements while making this site
     we used https://css-tricks.com to reserch various elements while making this site
+    referenced this youtube totorial https://www.youtube.com/watch?v=LQGTb112N_c to make the quiz on the differnt breweries page
+    info on the differnt breweries page was resourced from https://www.brewersassociation.org/statistics-and-data/craft-beer-industry-market-segments/
+    and https://www.openbrewerydb.org/documentation/01-listbreweries
 
     TEST!
