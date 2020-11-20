@@ -12,7 +12,7 @@ Cecilia Yarger
 
 Taylor Kost
     added javascript functionality for:
-    abuse resources page
+    abuse resources page and bio in about us page
 
 Tomi Akindele
    added javascript functionality for:
@@ -31,5 +31,6 @@ Directions:
     referenced this youtube totorial https://www.youtube.com/watch?v=LQGTb112N_c to make the quiz on the differnt breweries page
     info on the differnt breweries page was resourced from https://www.brewersassociation.org/statistics-and-data/craft-beer-industry-market-segments/
     and https://www.openbrewerydb.org/documentation/01-listbreweries
-
-    TEST!
+    links for hover overing over abuse resources https://www.samhsa.gov/find-help/national-helpline, 
+    https://www.niaaa.nih.gov/publications/brochures-and-fact-sheets/treatment-alcohol-problems-finding-and-getting-help,
+    https://www.rethinkingdrinking.niaaa.nih.gov/, https://www.alcohol.org/
