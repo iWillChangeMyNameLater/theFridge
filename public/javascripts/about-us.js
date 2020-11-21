@@ -25,7 +25,8 @@ function hideTomiInfo(){
 }
 function displayTomiInfo(){
     document.getElementById("more-info").style.display = "block";
-    document.getElementById("more-info").innerHTML=" hi";
+    document.getElementById("more-info").innerHTML="Hoping to create designs with unique aesthetics." +
+    "An enthusiast for skating, breaking, and gaming!";
     document.getElementById("purposeHeader").style.display = "none";
     document.getElementById("purposeContent").style.display = "none";
 }
