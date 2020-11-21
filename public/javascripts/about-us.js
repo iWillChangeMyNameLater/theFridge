@@ -25,7 +25,7 @@ function hideTomiInfo(){
 }
 function displayTomiInfo(){
     document.getElementById("more-info").style.display = "block";
-    document.getElementById("more-info").innerHTML="Hoping to create designs with unique aesthetics." +
+    document.getElementById("more-info").innerHTML="Hoping to create designs with unique aesthetics. " +
     "An enthusiast for skating, breaking, and gaming!";
     document.getElementById("purposeHeader").style.display = "none";
     document.getElementById("purposeContent").style.display = "none";
@@ -42,5 +42,5 @@ function displayCeciliaInfo(){
     document.getElementById("more-info").style.display = "block";
     document.getElementById("purposeHeader").style.display = "none";
     document.getElementById("purposeContent").style.display = "none";
-    document.getElementById("more-info").innerHTML=" howdy";
+    document.getElementById("more-info").innerHTML=" I am more interested in the buissness side of IST, and I hope to one day obtain a position as an IT business analyst";
 }

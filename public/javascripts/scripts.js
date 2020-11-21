@@ -20,25 +20,15 @@ function getAge() {
 }
 document.getElementById("check-age").addEventListener("click", checkAge);
 function checkAge() {
-    var today = new Date();
-    console.log(today);
+    var todaysDate = new Date();
     var enteredDate = new Date(dateSelector.value);
-    var age = today.getFullYear() - enteredDate.getFullYear();
-    console.log(age);
-
-    var checkBirthMonth = false;
+    var age = todaysDate.getFullYear() - enteredDate.getFullYear();
     if (age >= 21) {
-        if (today.getMonth() - enteredDate.getMonth() < 0) {
+        if (todaysDate.getMonth() - enteredDate.getMonth() < 0) {
             age--;
-            checkBirthMonth = true;
-            console.log("month")
-            console.log(today.getMonth() - enteredDate.getMonth());
-            console.log(age);
         }
-        if (checkBirthMonth == true && today.getDate() - (enteredDate.getDate() + 1) < 0) {
-            console.log(checkBirthMonth);
+        if ( todaysDate.getMonth() - enteredDate.getMonth() == 0 && todaysDate.getDate() - (enteredDate.getDate()+1) < 0) {
             age--;
-            console.log(age);
         }
 
     }
@@ -48,5 +38,6 @@ function checkAge() {
     else {
         window.location.replace("/not-21");
     }
+    console.log(checkBirthMonth);
 
 }
