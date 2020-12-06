@@ -11,10 +11,9 @@ exports.create = (req, res) =>{
     rec.save(function(err, recomendation) {// modeled from class demo and zybooks chatpr 11
         if (err) {
            res.status(400).send("there was a problem your recomendation could not be saved");
-           console.log("problem");
         } 
         else {
-           res.send("you recomendation was saved");
+           res.send("your recomendation was saved");
            
         }
      });
@@ -36,17 +35,14 @@ exports.findAll=(req,res)=> {// modeled from class demo and zybooks chatpr 11
 }
 
 exports.remove=(req,res)=> { 
-   console.log("this work");
-   console.log(req.body);
    var recID = new mongoose.Schema ({_id: String});
 
    Recomendation.deleteOne(recID._id=req.body, function(err, recomendation){
       if(err){
-         res.status(400).send("there was a problem your recomendation could not be saved");
-         console.log("hello")
+         res.status(400).send("there was a problem your recomendation could not be deleted");
       }
       else {
-         res.send("hello");
+         res.send("The Recomendation Has Been deleted");
          
       }
    });  
@@ -60,11 +56,11 @@ exports.update=(req,res)=>{
       console.log(req.body._id);
       console.log(recomendation);
       if(err){
-         res.status(400).send("there was a problem your recomendation could not be saved");
-         console.log("hello")
+         res.status(400).send("there was a problem your recomendation could not be updated");
+         
       }
       else {
-         res.send("working fine");
+         res.send("The Recomendation Was Updated");
          
       }
 

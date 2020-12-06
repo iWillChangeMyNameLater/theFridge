@@ -30,18 +30,40 @@
       <li><a href="/recommendations-page">recomendations</a></li>
     </ul>
   </div>
-  <p>Please enter you name</p><br>
-  <input id="name-field" class= "userform" type="text" name="name"><br>
-  <p>please enter your recomendation</p><br>
-  <input id="recomendations-field" class= "userform" type="text" name="recomendation"><br>
-  <button id="save-button" class= "userform" name="Recomend" > push</button>
-
-  <button id="refresh">refreash</button>
-  <button id="del">delete</button>
-  <button id="up">update</button>
-  <ul id="sure">
-    <li>hello</li>
-  </ul>
+  <div id="create-form">
+    <p>Please enter you name</p>
+    <input id="name-field" type="text" name="name">
+    <p>please enter your recomendation</p>
+    <input id="recomendations-field" type="text" name="recomendation"><br>
+    <button id="save-button" name="create-submit">Submit</button>
+  </div>
+  <div id="delete-form">
+    <p>Please Enter The ID Of The Recomenndation You Want to delete</p>
+    <input id="id-field" type="text" name="name">
+    <button id="del" name="delete-submit">Submit</button>
+  </div>
+  <div id="update-form">
+    <p>Please Enter The ID Of The Recomenndation You Want to Update</p>
+    <input id="id-field2" type="text" name="name">
+    <p>Please Enter Your New Recomendation</p>
+    <input id="recomendations-field2" type="text" name="recomendation"><br>
+    <button id="up" name="update-submit">Submit</button>
+  </div>
+  <div id="user-notes">
+    <p>We trust our users to keep this page free from offensive material but please do not change a post just because
+      you dissagree with it.</p>
+    <p>Note: Everytime a recomendation is updated, deleted, or created the refresh button must be for the updated
+      information to be displayed on the page</p>
+  </div>
+  <button class="form-buttons" id="create-form-button">Create A Recomendation</button>
+  <button class="form-buttons" id="del-form-button">Delete A Recomendation</button>
+  <button class="form-buttons" id="up-form-button">Update A Recomendation</button><br><br>
+  <button id="refresh">refresh</button>
+  <div id="list">
+    <ul id="sure">
+      <li>Recomendations</li>
+    </ul>
+  </div>
 
 
 </html>
