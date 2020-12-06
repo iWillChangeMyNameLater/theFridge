@@ -1,5 +1,5 @@
 /* Navigation bar*/
-ul {
+.bar ul {
     list-style-type: none;
     background-color: #2E4057;
     display: flex; /*the navigatin bar is responsive*/
@@ -33,4 +33,16 @@ ul {
     display: inline;
     color: #2E4057;
     width: 40px;
+}
+
+form{
+    margin:auto;
+}
+.userform{
+    margin: auto;
+}
+#sure{
+    list-style-type: none;
+    white-space: pre-wrap;
+
 }
