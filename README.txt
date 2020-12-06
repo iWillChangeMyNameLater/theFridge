@@ -4,19 +4,14 @@ Gold #84714F
 sunglow/yellow #FFD23F
 contributions:
 Cecilia Yarger
-    added javascript functionality for:
-    the opening page (index.html)
-    differnt breweries page
-    search breweries page
+    created the CRUD functions and set up the routing
 
 
 Taylor Kost
-    added javascript functionality for:
-    abuse resources page and bio in about us page
+    Helped with the handeling of the front end data and display
 
 Tomi Akindele
-   added javascript functionality for:
-    about us page
+   Helped with the handeling of the front end data and display
 
 
 Directions:
